@@ -59,6 +59,9 @@
 - [1001Fonts](https://1001fonts.com)
 - [Font Squirrel](https://fontsquirrel.com)
 
+  -<b>Para Convertir a formato woff y woff2</b>
+- [Transfonter](https://fontsquirrel.com)
+
 ---
 
 ## Herramientas para diseño
